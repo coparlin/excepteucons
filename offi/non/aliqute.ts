@@ -1,0 +1,1 @@
+moveCall({type, query}): void;
